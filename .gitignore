@@ -1,0 +1,13 @@
+node_modules
+00_archive/
+00_ressource/
+ckeditor
+.env
+node_modules
+gittoken.txt
+.git
+.env.local
+*.class
+.metadata
+*exe*
+
